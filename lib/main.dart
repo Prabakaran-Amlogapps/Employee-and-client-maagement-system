@@ -82,7 +82,7 @@ class _MyAppState extends State<MyApp> {
           primarySwatch: Colors.blue,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
-        home: LoginScreen()
+        home: EmployeeListScreen()
 
         // routes: {
         //   '/subscription': (context) => SubscriptionScreen(),
